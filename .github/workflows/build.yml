@@ -34,3 +34,4 @@ jobs:
         ./validate 
     - name: Test with the Go CLI
       run: go test
+# Comment to enable commit/push
